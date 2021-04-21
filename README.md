@@ -1,3 +1,16 @@
+# Grober Schaltplan
+[Schaltplan](https://github.com/NiklasBleicher/IoT/blob/main/Files/Schaltplan.png)
+
+# Bauteilliste:
+- min. 12 LEDs
+- Breadboard
+- Platinen zur Gruppierung von LEDs
+- 3 Buttons (Green, Yellow, Red)
+- 1 x 4bit Dispay
+- ?x Wiederstände 
+- Jumper Kabel min. 12
+
+
 # Grobkonzept
 
 [PDF Grobkonzept](https://github.com/NiklasBleicher/IoT/blob/main/Files/HighHeros_Grobentwurf.pdf)
@@ -19,7 +32,7 @@
 
 # Webapp
 
-### Homescreen (Ã¶ffnet beim Scannen des QR-Codes):
+### Homescreen (öffnet beim Scannen des QR-Codes):
 ![Homescreen](https://github.com/NiklasBleicher/IoT/blob/main/Files/GUI-Prototyp/Webapp.png) 
 ### Start-Screen:
 ![Homescreen](https://github.com/NiklasBleicher/IoT/blob/main/Files/GUI-Prototyp/Start.png) 
